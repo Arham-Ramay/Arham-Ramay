@@ -10,9 +10,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 💬 Ask me about **REACT.JS , NEXT.JS , JAVASCRIPT, TYPESCRIPT, TAILWIND CSS , CSS 3 , NODE , EXPRESS , MYSQL , MONGODB , SUPABASE , GITHUB , CI/CD**
+- Ask me about **REACT.JS , NEXT.JS , JAVASCRIPT, TYPESCRIPT, TAILWIND CSS , CSS 3 , NODE , EXPRESS , MYSQL , MONGODB , SUPABASE , GITHUB , CI/CD**
 
-- 📫 How to reach me **arhamramay80@gmail.com**
+- How to reach me **arhamramay80@gmail.com**
+
+- Contact: +92 3030108360
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
